@@ -3,16 +3,18 @@
   .slideshow-container {
     max-width: 1000px; /* Set the width of the slideshow container */
     max-height: 250px;
-    margin-top: 150px;
+    margin-top: 3000px;
     margin-left: 100px;
     margin-right: 50px;
     overflow:visible; /* Hide any overflowing content */
     z-index: 1;
+    url("./250pxmachineimages020823");
   }
   
   .slides {
     display: flex; /* Display the images in a row */
     animation: slideshow 30s linear infinite; /* Change slide every 30 seconds (3 seconds per image) */
+    url("./250pxmachineimages020823");
   }
   
   .slides img {
