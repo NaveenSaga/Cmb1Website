@@ -18,6 +18,7 @@
   .slides img {
     width: 250px; /* Set the width of each image to 400px */
     height: auto;
+    url("./250pxmachineimages020823");
   }
   
   @keyframes slideshow {
